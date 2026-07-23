@@ -16,15 +16,6 @@ Me chamo Laura Rayssa Araújo, tenho 18 anos e sou estudante de Análise e Desen
   <img alt="Python" title="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="MySQL" title="MySQL" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img alt="Figma" title="Figma" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img alt="Visual Studio" title="Visual Studio" width="35" 
+  <img alt="Visual Code" title="Visual Code" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img alt="Visual Studio" title="Visual Studio" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 </p> 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"           
-/>
-<img 
-    align="left" 
-    alt="VSCode" 
-    title="VSCode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"                  
-/>        
