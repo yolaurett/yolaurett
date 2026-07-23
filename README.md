@@ -10,4 +10,6 @@ Me chamo Laura Rayssa Araújo, tenho 18 anos e sou estudante de Análise e Desen
     alt="LinkedIn"
   />
 </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurarayssa/)
   
