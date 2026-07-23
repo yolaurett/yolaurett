@@ -6,7 +6,7 @@ Me chamo Laura Rayssa Araújo, tenho 18 anos e sou estudante de Análise e Desen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurarayssa/)
 
 ---
-
+### Linguagens e Tecnologias
 <p align="left">
   <img alt="HTML" title="HTML" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS" title="CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
