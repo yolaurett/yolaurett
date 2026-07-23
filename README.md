@@ -42,7 +42,7 @@ Me chamo Laura Rayssa Araújo, tenho 18 anos e sou estudante de Análise e Desen
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />          
 <img 
-    align="left" 
+    align="right" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
