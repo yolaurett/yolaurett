@@ -22,7 +22,14 @@ Me chamo Laura Rayssa Araújo, tenho 18 anos e estou cursando o 2º Semestre de 
 
 ---
 ### Visite meu último projeto
-<a href="https://yolaurett.github.io/Dermalavina/">
-  <img src="https://yolaurett.github.io/Dermalavina/imagens/logo.png" alt="Logo Dermalavina" width="100">
-</a>
-Dermalavina, um site destinado à conscientização e prevenção do câncer de pele na população rural de São Paulo.
+<div style="display: flex; align-items: center; gap: 16px; margin: 15px 0;">
+  
+  <a href="https://yolaurett.github.io/Dermalavina/" style="display: block; flex-shrink: 0;">
+    <img src="https://yolaurett.github.io/Dermalavina/imagens/logo.png" alt="Logo Dermalavina" width="100" style="display: block;">
+  </a>
+
+  <p style="margin: 0; font-size: 16px; line-height: 1.4; max-width: 500px;">
+    Dermalavina, um site destinado à conscientização e prevenção do câncer de pele na população rural de São Paulo.
+  </p>
+
+</div>
